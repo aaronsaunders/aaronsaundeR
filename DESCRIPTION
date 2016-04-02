@@ -1,0 +1,9 @@
+Package: aaronsaundeR
+Title: My R scripts
+Version: 0.0.0.9000
+Authors@R: person("Aaron", "Saunders", email = "aaron.marc.saunders@gmail.com",
+  role = c("aut", "cre"))
+Description: All kinds of stuff.
+Depends: R (>= 3.2.3)
+License: What license is it under?
+LazyData: true
